@@ -1,0 +1,11 @@
+c:\users\luisdiego\documents\visual studio 2013\Projects\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.exe.config
+C:\Users\LuisDiego\Documents\GitHub\InventoryManagement\Aplications\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.exe.config
+C:\Users\LuisDiego\Documents\GitHub\InventoryManagement\Aplications\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.exe
+C:\Users\LuisDiego\Documents\GitHub\InventoryManagement\Aplications\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.pdb
+C:\Users\LuisDiego\Documents\GitHub\InventoryManagement\Aplications\InventoryManagement\InventoryManagement\bin\Debug\BusinessLayerInventory.dll
+C:\Users\LuisDiego\Documents\GitHub\InventoryManagement\Aplications\InventoryManagement\InventoryManagement\bin\Debug\BusinessLayerInventory.pdb
+C:\Users\LuisDiego\Documents\GitHub\InventoryManagement\Aplications\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csprojResolveAssemblyReference.cache
+C:\Users\LuisDiego\Documents\GitHub\InventoryManagement\Aplications\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Properties.Resources.resources
+C:\Users\LuisDiego\Documents\GitHub\InventoryManagement\Aplications\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.GenerateResource.Cache
+C:\Users\LuisDiego\Documents\GitHub\InventoryManagement\Aplications\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.exe
+C:\Users\LuisDiego\Documents\GitHub\InventoryManagement\Aplications\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.pdb

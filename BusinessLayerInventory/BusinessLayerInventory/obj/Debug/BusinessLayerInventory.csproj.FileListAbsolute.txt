@@ -1,0 +1,5 @@
+C:\Users\LuisDiego\Documents\GitHub\InventoryManagement\Builds\BusinessLayerInventory.dll
+C:\Users\LuisDiego\Documents\GitHub\InventoryManagement\Builds\BusinessLayerInventory.pdb
+C:\Users\LuisDiego\Documents\GitHub\InventoryManagement\BusinessLayerInventory\BusinessLayerInventory\obj\Debug\BusinessLayerInventory.csprojResolveAssemblyReference.cache
+C:\Users\LuisDiego\Documents\GitHub\InventoryManagement\BusinessLayerInventory\BusinessLayerInventory\obj\Debug\BusinessLayerInventory.dll
+C:\Users\LuisDiego\Documents\GitHub\InventoryManagement\BusinessLayerInventory\BusinessLayerInventory\obj\Debug\BusinessLayerInventory.pdb
